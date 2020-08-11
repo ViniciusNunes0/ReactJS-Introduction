@@ -1,0 +1,15 @@
+ReactJS
+
+*pra começar:
+-> install Nodejs
+-> yarn
+
+* instação do pacote reactjs
+-> npm install -g create-react-app
+
+* criação do projeto
+-> create-react-app <NOME>
+
+* navegação
+
+-> yarn add react-router-dom
